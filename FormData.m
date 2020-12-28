@@ -1,5 +1,5 @@
 function [A,S,userindex,groupindex]= FormMatrix(X, Y, k)
-# function which creates friendship network and affiliation network matrices
+% function which creates friendship network and affiliation network matrices
 % k is a parameter which represents wanted number of users, i.e. N_u
 % in the end, N_u could be lower
 
